@@ -7,7 +7,7 @@
 #
 Name     : pypi-flexparser
 Version  : 0.4
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/82/99/b4de7e39e8eaf8207ba1a8fa2241dd98b2ba72ae6e16960d8351736d8702/flexparser-0.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/82/99/b4de7e39e8eaf8207ba1a8fa2241dd98b2ba72ae6e16960d8351736d8702/flexparser-0.4.tar.gz
 Summary  : Parsing made fun ... using typing.
